@@ -27,8 +27,6 @@ album_titles <- album_titles[-c(1,4,7),]
 album_titles$album_name[album_titles$album_name=="Graduation (Exclusive Edition)"] <- "Graduation"
 album_titles$album_name[album_titles$album_name=="808s & Heartbreak"] <- "808s Heartbreak"
 album_titles
-emotions_math <- genius_album(artist = "Kanye West", album = "ye")
-emotions_math
 
 
 ## scrap lyrics; I created 3 for loops to speed up efficiency, as extracting lyrics from all 8 albums at once made the program much slower
