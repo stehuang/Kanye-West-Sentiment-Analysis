@@ -17,11 +17,6 @@ Sys.setenv(SPOTIFY_CLIENT_SECRET = 'xxxxxxxx')
 access_token <- get_spotify_access_token()
 
 
-# Getting access to the Spotify API
-Sys.setenv(SPOTIFY_CLIENT_ID = '32bf3137c383403ea46edec3114b89c4')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = '341f33d4daff4cdcbaf7cc728ab1e44b')
-access_token <- get_spotify_access_token()
-
 # Filtering out artists to get our desired one, which appears to be the first on the list
 artists <- get_artists('Kanye West')
 # get all albums and store in a dataframe
