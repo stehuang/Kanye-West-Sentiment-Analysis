@@ -306,7 +306,7 @@ music
 </tr>
 </tbody>
 </table>
-##### Now let’s look at the breakdown of sentiments for each album, visualized by a radar-chart. I placed more positive sentiments on the left half and more negative ones on the right half.
+** Now let’s look at the breakdown of sentiments for each album, visualized by a radar-chart. I placed more positive sentiments on the left half and more negative ones on the right half. **
 
 ``` r
 # creating the sentiment radar-chart
