@@ -1,6 +1,7 @@
 Kanye West Sentiment Analysis
 ================
 Stella Huang
+
 August 2018
 
 ### Introduction
