@@ -3,6 +3,8 @@ The purpose of this project is to lyrically analyze how Kanye West’s albums ha
 
 In this analysis, I primarily used the Genius API to access West’s lyrics, which is retrieved line-by-line along with the track title, and merged in other relevant information. The sentiment analysis was conducted using the sentiments dataset in the tidytext package; I used the afinn and nrc lexicons because they render a numerical and categorical method of measuring a word’s sentiment. The afinn score and nrc sentiment composition for each track and album were calculated then standardized for comparison. In addition, I have examined West’s most commonly used words and phrases. 
 
+**You can read the full project [here](https://github.com/stehuang/Kanye-West-Sentiment-Analysis/blob/master/Kanye_West_Analysis.md)**
+
 
 
 ## Documents
