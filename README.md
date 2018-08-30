@@ -18,18 +18,17 @@ Kanye West Sentiment Analysis: the annotated R Markdown file that documents my e
 R Studio (updated to at least Version 1.1.453)
 
 ## Libraries:
-Spotifyr			
-geniusR			
-dplyr
-tidytext
-tidyr
-tidyverse
-ggplot2
-radarchart
-devtools
-yarrr
-knitr
-kableExtra
-reshape
-RColorBrewer
-wordcloud
+* Spotifyr			
+* geniusR			
+* dplyr
+* tidytext
+* tidyr
+* ggplot2
+* radarchart
+* devtools
+* yarrr
+* knitr
+* kableExtra
+* reshape
+* RColorBrewer
+* wordcloud
